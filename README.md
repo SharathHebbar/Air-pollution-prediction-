@@ -5,16 +5,16 @@
 
 ## Correlation
 
-![Correlation Matrix](assets\images\correlation.png)
+![Correlation Matrix](https://github.com/SharathHebbar/Air-pollution-prediction-/blob/main/assets/images/correlation.png)
 
 ## PairPlot
 
-![Pair Plot](assets\images\pairplot.png)
+![Pair Plot](https://github.com/SharathHebbar/Air-pollution-prediction-/blob/main/assets/images/pairplot.png)
 
 ## RegPlot
 
-![Reg Plot](assets\images\regplot.png)
+![Reg Plot](https://github.com/SharathHebbar/Air-pollution-prediction-/blob/main/assets/images/regplot.png)
 
 ## Violin Plot
 
-![Violin Plot](assets\images\violinplot.png)
+![Violin Plot](https://github.com/SharathHebbar/Air-pollution-prediction-/blob/main/assets/images/violinplot.png)
