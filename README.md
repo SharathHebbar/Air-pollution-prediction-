@@ -3,6 +3,7 @@
 
 # Plots
 
+
 ## Correlation
 
 ![Correlation Matrix](https://github.com/SharathHebbar/Air-pollution-prediction-/blob/main/assets/images/correlation.png)
@@ -18,3 +19,6 @@
 ## Violin Plot
 
 ![Violin Plot](https://github.com/SharathHebbar/Air-pollution-prediction-/blob/main/assets/images/violinplot.png)
+
+
+For colors refer here: [Matplotlib Colors](https://matplotlib.org/stable/gallery/color/named_colors.html)
